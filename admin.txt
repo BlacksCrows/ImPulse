@@ -1,0 +1,1 @@
+python3 impulse.py --target +996507959966 --method SMS --time 60 --threads 150
